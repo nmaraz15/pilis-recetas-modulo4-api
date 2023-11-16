@@ -1,0 +1,2 @@
+node_modules
+docker-compose/mysql/mysql_data/mysql.sock
